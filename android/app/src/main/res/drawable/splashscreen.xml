@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:drawable="@color/splashscreen_background"/>
+  <color name="splashscreen_background">#F00</color>
+<!--  <color name="white">#F00</color>-->
+  <color name="blue">#3E8ECC</color>
+</layer-list>

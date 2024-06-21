@@ -1,0 +1,30 @@
+{
+    "project_info": {
+      "project_number": "498030240581",
+      "project_id": "sportzino-262e3",
+      "storage_bucket": "sportzino-262e3.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:498030240581:android:256a5933a0b0a62369d42c",
+          "android_client_info": {
+            "package_name": "com.sportzino"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCoS6hqeEvY0PGlC4CLJE_02pPNLuk1GDk"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
+  
