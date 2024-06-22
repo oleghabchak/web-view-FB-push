@@ -7,7 +7,6 @@ export default function AnimationWithImperativeApi({width}) {
   useEffect(() => {
     animationRef.current?.play();
 
-    // Or set a specific startFrame and endFrame with:
     animationRef.current?.play(71, 86);
   }, [animationRef]);
 
